@@ -3,4 +3,13 @@ span {
 }
 body {
     text-align: center;
+    background-color: #EE8DAA;
+}
+#pic img {
+    border-style: dotted;
+    border-color: aliceblue;
+}
+#mini-layout img {
+    border-style: dotted;
+    border-color: aliceblue;
 }
